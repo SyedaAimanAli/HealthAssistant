@@ -15,7 +15,7 @@ symptom_map = dict(zip(symptom_display, raw_symptoms))
 st.set_page_config(page_title="CheckHealth - AI Symptom Checker", page_icon="🩺", layout="centered")
 
 # Header
-st.image("https://cdn-icons-png.flaticon.com/512/9381/9381449.png", width=80)
+# st.image("https://cdn-icons-png.flaticon.com/512/9381/9381449.png", width=80)
 st.title("🩺 CheckHealth: AI Symptom Checker")
 st.caption("Get quick insights based on your symptoms and find suggested remedies.")
 
